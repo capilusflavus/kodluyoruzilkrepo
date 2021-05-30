@@ -2,7 +2,7 @@
 
 Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repodur. İçerisinde bir adet *README* dosyası, bir adet de *index.html* barındırıyor.
 
-![createimg](https://user-images.githubusercontent.com/77639647/120113020-46574b00-c181-11eb-89cc-565ce9f4f03d.png)
+![createimg](https://user-images.githubusercontent.com/77639647/120113081-874f5f80-c181-11eb-89bc-7be70a0160a9.png)
 
 
 ## Installation
